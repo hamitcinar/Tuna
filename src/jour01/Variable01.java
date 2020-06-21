@@ -25,7 +25,7 @@ public class Variable01 {
 		System.out.println(haftaninIlkGunu);
 		
 		
-		
+		System.out.println("Tuna nerede?");
 
 	}
 
