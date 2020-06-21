@@ -25,7 +25,9 @@ public class Variable01 {
 		System.out.println(haftaninIlkGunu);
 		
 		
-		System.out.println("Tuna nerede?");
+		System.out.println("Tuna nerede?");// git programi ile ekledim
+		
+		System.out.println("eclipse den bilgi gonderme");
 
 	}
 
