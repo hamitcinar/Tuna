@@ -27,7 +27,8 @@ public class Variable01 {
 		
 		System.out.println("Tuna nerede?");// git programi ile ekledim
 		
-		System.out.println("eclipse den bilgi gonderme");
+		System.out.println("eclipse den bilgi gonderme" + "gitHub tan geri gonderme");
+		
 
 	}
 
